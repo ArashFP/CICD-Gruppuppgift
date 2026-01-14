@@ -24,4 +24,4 @@ jobs:
               with:
                 context: .
                 push: true
-                tags: davidszocom/dso25-docker:latest
+                tags: ArashFP/CICD-Gruppuppgift:latest
